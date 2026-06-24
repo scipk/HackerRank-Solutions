@@ -1,0 +1,3 @@
+# Summing the N series
+
+https://www.hackerrank.com/challenges/summing-the-n-series/problem
