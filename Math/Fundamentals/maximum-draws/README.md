@@ -1,3 +1,0 @@
-# Maximum Draws
-
-https://www.hackerrank.com/challenges/maximum-draws/problem
